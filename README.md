@@ -12,7 +12,7 @@ Requirements -
 # Virus Total
 ```json
 "Virus Total": {
-  "Virus Total link": "https://www.virustotal.com/gui/file/385b7568b771701c743806f07e33ffc89e3a790008ed43735af81102f8a24d41",
+  "Virus Total link": "https://www.virustotal.com/gui/file/da35db234f7482b1bc4ffdce3929de5e6af8bb207784435704d7cb2c261076eb",
   "Virus total upload": "https://www.virustotal.com/gui/home/upload"
 }
 ```
