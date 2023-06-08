@@ -8,7 +8,6 @@ Requirements -
 - Roblox open when executeing
 - Computer that has the windows linux os
 ```
-This was made by seasonal#6835
 
 # Virus Total
 ```json
@@ -26,3 +25,4 @@ This was made by seasonal#6835
   "4": "Reopen roblox and your good to go"
 }
 ```
+# This was made by seasonal#6835
