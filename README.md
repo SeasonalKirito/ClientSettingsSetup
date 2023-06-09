@@ -17,7 +17,7 @@ python -m pip install pystyle
 # Virus Total
 ```json
 "Virus Total": {
-  "Virus Total link": "https://www.virustotal.com/gui/file/da35db234f7482b1bc4ffdce3929de5e6af8bb207784435704d7cb2c261076eb",
+  "Virus Total link": "https://www.virustotal.com/gui/file/1e8c8f4b6ccd767e23a5feb1457a6c7e920fb22597a9af6279f5c62d5986d630",
   "Virus total upload": "https://www.virustotal.com/gui/home/upload"
 }
 ```
