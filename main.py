@@ -21,7 +21,7 @@ except:
 print("\n\n\n\n\n\n\n")
 
 try:
-    url = "https://roblox-client-optimizer.simulhost.com/ClientAppSettings.json"
+    url = "https://raw.githubusercontent.com/SeasonalKirito/ClientSettingsSetup/main/fflags.json"
     response = requests.get(url)
     data = response.json()
     current_time = datetime.datetime.now().strftime('%H:%M:%S')
