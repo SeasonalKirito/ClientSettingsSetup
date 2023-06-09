@@ -8,7 +8,16 @@ Requirements -
 - Roblox open when executeing
 - Computer that has the windows or linux os
 ```
-
+Run this in command prompt -
+```cmd
+python -m pip install requests, psutil, pystle")
+```
+or
+```cmd
+python -m pip install requests
+python -m pip install psutil
+python -m pip install pystyle
+```
 # Virus Total
 ```json
 "Virus Total": {
