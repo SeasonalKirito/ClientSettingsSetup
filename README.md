@@ -6,7 +6,7 @@ the folder for it to work.
 Requirements -
 - Python >= 3.11.4
 - Roblox open when executeing
-- Computer that has the windows or linux os
+- Computer that has the windows or (maybe linux) os
 ```
 Run this in command prompt -
 ```cmd
