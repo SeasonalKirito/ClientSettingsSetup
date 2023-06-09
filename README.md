@@ -10,7 +10,7 @@ Requirements -
 ```
 Run this in command prompt -
 ```cmd
-python -m pip install requests, psutil, pystle")
+python -m pip install requests, psutil, pystle
 ```
 or
 ```cmd
