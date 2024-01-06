@@ -175,6 +175,7 @@ class Manager:
             self._create_client_app_settings(client_settings, fflags, "Writeing ClientSettings", "Finished Writeing ClientSettings!")
         print(f"\n{Fore.GREEN}[{self._get_time()}] Finished ClientSettings Setup!")
         print(Fore.RESET)
+        time.sleep(10)
 
 
 
