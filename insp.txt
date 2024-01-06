@@ -1,0 +1,10 @@
+# Inspiration from console below -
+
+# 15:34:09 [warning] updater: checking if directory exists
+# 15:34:09 [warning] updater: creating main directory
+# 15:34:09 [warning] updater: creating config directory
+# 
+# 15:34:09 [warning] entry: checking for any celestial updates
+# 
+# 15:34:12 [warning] updater: version check failed #429
+# 15:34:12 [warning] updater: dll not found, downloading what to do?
